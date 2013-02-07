@@ -1,0 +1,30 @@
+/* TEAM */
+	Developer: Abel Morales
+	Contact: e.morales [at] altusmedia.com.mx
+	Twitter: @dr_fantasma
+	From: Distrito Federal, Mexico City, México
+
+	Developer: Francisco Osorio 
+	Contact: f.osorio [at] altusmedia.com.mx
+	Twitter: @pakosorio
+	From: Distrito Federal, Mexico City, México
+	
+	Developer: Guillermo Dolores
+	Contact: g.dolores [at] altusmedia.com.mx
+	Twitter: @mkiramu
+	From: Distrito Federal, Mexico City, México
+
+	Developer: Martín Tellez
+	Contact: m.tellez [at] altusmedia.com.mx
+	Twitter: @martin_tellez_g
+	From: Distrito Federal, Mexico City, México
+
+
+/* THANKS */
+
+	
+/* SITE */
+	Last update:2013/02/05
+	Language: Español / English
+	Doctype: HTML5
+	IDE: Sublime Text, FileZilla, Photoshop
